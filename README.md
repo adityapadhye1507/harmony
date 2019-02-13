@@ -1,12 +1,12 @@
 # Harmony
 
-#Introduction
+# Introduction
 
 This application is based on a MEAN stack architecture with NodeJS based server, Angular JS based client and MongoDB based database. In order to expose the Restful API’s, NodeJS server needs to be started, which serves the client-side applications as well as the server-side applications.
 
 The database is a MongoDB database, which can be hosted either locally or online. Once the database is configured and actively listening to requests, the node server can be setup and started to start the application.
 
-##Local Deployment
+## Local Deployment
 
 #### Install the minimum dependencies of the project
 - Node JS v10.2.1 (https://nodejs.org/en/download/)
